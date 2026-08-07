@@ -1,5 +1,6 @@
 ---
 title: "Note inside DL folder "
+folder: "dl"
 tags: []
 pinned: false
 created: 2026-08-06T11:03:06.614Z

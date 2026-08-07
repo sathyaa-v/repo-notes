@@ -1,5 +1,6 @@
 ---
 title: "Test notes 2"
+folder: ""
 tags: []
 pinned: false
 created: 2026-08-06T05:13:59.069Z
