@@ -4,7 +4,7 @@ folder: "New courses"
 tags: []
 pinned: false
 created: 2026-08-08T06:50:47.069Z
-updated: 2026-08-08T06:53:59.100Z
+updated: 2026-08-08T20:09:53.027Z
 ---
 As i tore this note contains text from nothing. Behave as if he is good
 
